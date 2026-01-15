@@ -1,4 +1,4 @@
-# **PassMangle** 🌀🧠🔐
+# **PassMagle** 🌀🧠🔐
 
 > *"When Heisenberg met Freud at a password reset page..."*
 
