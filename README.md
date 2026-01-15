@@ -8,7 +8,7 @@
 
 ## 📜 **What in the Quantum Multiverse is This?**
 
-**PassMangle** is not just another password generator. It's a philosophical statement, a mathematical journey, and a cosmic joke about human password psychology—wrapped in Python and sprinkled with quantum field theory.
+**Passmagle** is not just another password generator. It's a philosophical statement, a mathematical journey, and a cosmic joke about human password psychology—wrapped in Python and sprinkled with quantum field theory.
 
 We asked: "What if password generation wasn't just about entropy, but about understanding why people choose 'dragon1987' and then add '!' at the end?" The answer became this beautiful monstrosity.
 
@@ -41,8 +41,8 @@ We unified:
 ### **The Incantation:**
 ```bash
 # Clone the repository (careful, it might collapse your wave function)
-git clone https://github.com/TaoishTechy/PassMangle.git
-cd PassMangle
+git clone https://github.com/TaoishTechy/Passmagle.git
+cd Passmagle
 
 # Install dependencies (some are actual quantum libraries, we swear)
 pip install -r requirements.txt
@@ -244,7 +244,7 @@ We welcome contributions! Especially if you:
 
 ## 📜 **License**
 
-**PassMangle** is licensed under the **"Do What The Quantum Says" License (DWTFYQWTL)**:
+**Passmagle** is licensed under the **"Do What The Quantum Says" License (DWTFYQWTL)**:
 
 ```
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -277,6 +277,6 @@ In a world where "password123" still tops the charts, perhaps what we need isn't
 
 ---
 
-**PassMangle** - Because sometimes, the only way to solve a problem is to wrap it in quantum field theory and hope for the best. 🌀🔐🧠
+**Passmagle** - Because sometimes, the only way to solve a problem is to wrap it in quantum field theory and hope for the best. 🌀🔐🧠
 
 *"Not your average password generator. Probably."*
